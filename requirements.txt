@@ -1,6 +1,7 @@
-selenium
+streamlit
 requests
+beautifulsoup4
 pandas
-pytesseract
-pdf2image
 openpyxl
+camelot-py[cv]
+PyPDF2
